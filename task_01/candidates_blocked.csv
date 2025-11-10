@@ -223,8 +223,8 @@ i_dblp,j_sch,dblp_id,sch_id
 2182,10597,journals/tods/CeriFPT95,8k0tS22xvPcJ
 479,33371,conf/sigmod/DobraGGR02,dD4qUMoxnpEJ
 1610,23203,conf/vldb/YangKL97,myKhIppwLC8J
-714,27761,journals/sigmod/Camps96,mDj9X3EN9ycJ
 458,23634,conf/sigmod/ChaudhuriGN02,KrfR8djb3C8J
+714,27761,journals/sigmod/Camps96,mDj9X3EN9ycJ
 2391,45645,journals/vldb/Amer-YahiaCLS02,p5n3KKoHgMgJ
 2195,29491,journals/tods/BellNNS96,0MteXOu7gzcJ
 156,24989,conf/vldb/ChakravarthyKAK94,_-vK9N_WmVwJ
@@ -670,8 +670,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1793,18375,conf/sigmod/AgrawalCFGHIIMMSS94,HypA8oN4PqsJ
 1245,37791,conf/sigmod/MumickQM97,LjHrrOD-Db0J
 2428,52134,journals/vldb/FangGM96,axMI0TqrxxQJ
-722,58395,journals/sigmod/MedskerCS95,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D202673%26type%3Dpdf%26coll%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222
 547,2929,journals/sigmod/Lomet98,ytRfS_upf-0J
+722,58395,journals/sigmod/MedskerCS95,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D202673%26type%3Dpdf%26coll%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222
 973,40486,conf/vldb/AilamakiDHS01,vGBA3aJ8EDsJ
 279,7086,journals/sigmod/WestmannKHM00,Cm209Vuk17cJ
 955,5383,conf/sigmod/LakshmananNHP99,qYaqmaGIOS4J
@@ -2681,8 +2681,8 @@ i_dblp,j_sch,dblp_id,sch_id
 634,3398,journals/sigmod/HaritsaS96,2w2qkhr3k3kJ
 343,27543,conf/sigmod/MaddenFHH03,Fs4Mw04PQL8J
 2033,28104,conf/vldb/HuebschHLLSS03,1gFn3yCLOEcJ
-19,2721,conf/vldb/SrikantA95,RE_sI8I74igJ
 1027,2511,conf/vldb/PatonG01,mHCrMuxQnBsJ
+19,2721,conf/vldb/SrikantA95,RE_sI8I74igJ
 1434,58512,conf/sigmod/QuassWGHLMNRRAUW96,BNIZdeaIilIJ
 753,5160,conf/sigmod/LiuPBHPT00,NNCJiGVzTBEJ
 594,23597,journals/sigmod/ChangASS98,AzYwDt_6D80J
@@ -4906,8 +4906,8 @@ i_dblp,j_sch,dblp_id,sch_id
 582,53671,conf/sigmod/HanPDW01,BjSNaShBCsQJ
 2199,60170,journals/tods/DeyS96,nDjkbTpdtiYJ
 2105,31461,conf/vldb/AbiteboulBMMW02,4GT0Krd9RP0J
-184,43984,journals/sigmod/BarbaraCJW01,asukNMVeZZYJ
 73,25686,conf/vldb/BrownCC94,oayI0FKl-nQJ
+184,43984,journals/sigmod/BarbaraCJW01,asukNMVeZZYJ
 876,61473,conf/sigmod/YerneniLGU99,2MbaeG3IVV0J
 725,10565,conf/sigmod/RamaswamyRS00,QCFUIVkspywJ
 2156,18594,conf/vldb/MankuM02,swhmRpwl9LQJ
@@ -5193,8 +5193,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1433,61285,conf/vldb/KonigW99,LMz7v87sxxYJ
 404,19493,conf/sigmod/Amer-YahiaFSX03,Nr10grS3650J
 2037,9721,conf/vldb/MadhavanH03,WWLdFr2B9BgJ
-1252,18836,conf/sigmod/AdelbergGW97,zZo47Z-jVX4J
 274,36416,journals/sigmod/LabrinidisR00,Wcbvsi-QDtcJ
+1252,18836,conf/sigmod/AdelbergGW97,zZo47Z-jVX4J
 1911,56564,conf/vldb/YanL95,JLzIM-AHdW8J
 1354,46847,conf/sigmod/FranklinJK96,naUCkadkOekJ
 1817,27101,conf/vldb/BohannonLRSSS97,GzK2N5eQ0pQJ
@@ -7040,8 +7040,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1570,20983,conf/vldb/AbiteboulAAACHHMMMMSTV99,4OUQOD2i52sJ
 2193,55671,journals/tods/FraternaliT95,DoS7NkmUyYgJ
 1019,27296,conf/sigmod/GarofalakisRRS99,eQlApCaSdEEJ
-1582,55517,conf/vldb/KnorrN98,kKQ_2bg6WXAJ
 989,42171,conf/vldb/LiM01,vkMYwC5tzUgJ
+1582,55517,conf/vldb/KnorrN98,kKQ_2bg6WXAJ
 575,61779,conf/sigmod/FernandezMS01,Qx9xzKpLhiMJ
 2238,45241,journals/tods/KrishnakumarB94,KpQrgYyji34J
 2454,14506,journals/vldb/AgrawalAJL95,Tpb-LwPZJNMJ
@@ -7750,8 +7750,8 @@ i_dblp,j_sch,dblp_id,sch_id
 500,61556,journals/sigmod/ConradEHRSSSV97,zJCsqgMH5bUJ
 1306,40486,conf/vldb/DiaoLCT00,vGBA3aJ8EDsJ
 2393,44541,journals/vldb/LeeSC01,QVJykO8Yy9UJ
-700,34260,conf/sigmod/Amer-YahiaCLS01,wGxcAPsmHgIJ
 1019,55705,conf/sigmod/GarofalakisRRS99,z7J4u1sJ52cJ
+700,34260,conf/sigmod/Amer-YahiaCLS01,wGxcAPsmHgIJ
 1686,63338,conf/vldb/ShuklaDN98,chYdQDE8cPsJ
 1327,9283,conf/vldb/GantiLR00,edlRohX4M8MJ
 979,11983,conf/sigmod/JarkeQBLMS99,nSKzTBqurCwJ
@@ -9001,8 +9001,8 @@ i_dblp,j_sch,dblp_id,sch_id
 112,25267,journals/sigmod/HuangKL02,DnlhkxolSmoJ
 1388,42807,conf/sigmod/LeflerSW96,SfVMjlJ3B20J
 631,32248,journals/sigmod/RamamrithamSSTX96,XX_3v0k3v6QJ
-1733,52641,conf/vldb/GyssensL97,5ZEYqz95ZRAJ
 1076,47416,conf/vldb/ChaHKK01,VyOa5Uqsj6AJ
+1733,52641,conf/vldb/GyssensL97,5ZEYqz95ZRAJ
 811,47899,conf/sigmod/KornM00,VSR4PwHmGWsJ
 518,55756,conf/sigmod/PossSKL02,rwuw1MV4wlwJ
 2029,7148,conf/vldb/JiangWL03,64fMPB-atd8J
@@ -9345,8 +9345,8 @@ i_dblp,j_sch,dblp_id,sch_id
 914,134,conf/sigmod/NgLHM99,Mqg5svJwsCoJ
 1749,21873,conf/sigmod/SinghTW94,1vL9JGG_LD0J
 2162,63332,conf/vldb/ChoALS02,cAIvcFCeB6oJ
-2307,15226,journals/vldb/PacittiS00,UvvmhI5lqbsJ
 1687,17962,conf/sigmod/GravanoGT94,81oh7EDAYeoJ
+2307,15226,journals/vldb/PacittiS00,UvvmhI5lqbsJ
 2439,55504,journals/vldb/AlbanoGO95,Os5qy8ry5mIJ
 1382,27714,conf/sigmod/SrikantA96,5Iv4iamnHDEJ
 876,25856,conf/sigmod/YerneniLGU99,jYqDyro4C0YJ
@@ -10450,8 +10450,8 @@ i_dblp,j_sch,dblp_id,sch_id
 741,19678,conf/sigmod/RoySSB00,1lRZz4bZvxEJ
 2096,29375,conf/vldb/AgrawalSX02,A5qgqEDykVwJ
 2011,47761,conf/vldb/TengCY03,8b1aGpNW7KcJ
-688,32095,journals/sigmod/HasanMV96,bLbjFFkQJdIJ
 1119,11902,conf/sigmod/LarsonG98,tPG--ikWjGcJ
+688,32095,journals/sigmod/HasanMV96,bLbjFFkQJdIJ
 2487,9783,conf/vldb/CareyHMW96,nM9bJESsWNoJ
 1472,27481,conf/sigmod/LoR96,em5eiGpRZFkJ
 405,29528,conf/sigmod/ArasuBBDIRW03,opfk5zx5vfMJ
@@ -11173,8 +11173,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1182,38031,conf/sigmod/AcharyaFZ97,eYabDtrkXaYJ
 1720,45254,conf/sigmod/CareyDFHMNSSTTWZ94,EN1nFWJxnoIJ
 1316,34813,conf/vldb/CeriCW00,MYcuaGkEwpQJ
-39,2553,conf/vldb/HoelS95,hwBMsP8-fXcJ
 1556,56931,conf/sigmod/FreedmanD95,2bao_dZfCuQJ
+39,2553,conf/vldb/HoelS95,hwBMsP8-fXcJ
 518,51048,conf/sigmod/PossSKL02,_4R21mflaroJ
 1299,12952,conf/vldb/KoudasIM00,9rDLhwM_4mYJ
 561,43016,conf/sigmod/ChenZCKR01,uwFOgdmz6nkJ
@@ -11994,8 +11994,8 @@ i_dblp,j_sch,dblp_id,sch_id
 2044,634,conf/vldb/CormodeKMS03,0ZQnv8tOzBwJ
 1496,55705,conf/vldb/GarofalakisIO98,z7J4u1sJ52cJ
 1148,12362,conf/vldb/WuFSP00,LlW9G1FoLKoJ
-2022,13118,conf/vldb/ZhouS03,NlDvk5J0WwEJ
 1534,43165,conf/sigmod/GardarinMP95,l-9pykkOVrkJ
+2022,13118,conf/vldb/ZhouS03,NlDvk5J0WwEJ
 2350,16367,journals/vldb/AbiteboulCM98,DakOA4Ew-poJ
 350,35013,conf/sigmod/ZhuS03,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D1027648%26type%3Dpdf
 533,14718,conf/sigmod/AbadiC02,5U1wr_rW-g4J
@@ -12366,8 +12366,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1476,58999,conf/sigmod/HarinarayanRU96,ofxLw3VrJB8J
 405,28093,conf/sigmod/ArasuBBDIRW03,7D59wPTtkdcJ
 1739,4698,conf/vldb/AcharyaFZ96,NDzryNtTyL8J
-1600,18095,conf/sigmod/MattosM95,6gc5TN-yce8J
 2404,55827,journals/vldb/Atkinson00,N4nyJ3C99iMJ
+1600,18095,conf/sigmod/MattosM95,6gc5TN-yce8J
 362,34812,conf/sigmod/KaushikBNK02,YQnqgdlGO5oJ
 1227,36014,conf/sigmod/HellersteinHW97,UHF2uPETWC8J
 557,51495,conf/sigmod/SlivinskasJS01,iiRNUmiHLgUJ
@@ -12570,8 +12570,8 @@ i_dblp,j_sch,dblp_id,sch_id
 914,8803,conf/sigmod/NgLHM99,qOiru8Q7FbIJ
 812,17386,journals/sigmod/Ulusoy95,r1xWRhy7WVUJ
 664,39365,conf/sigmod/AggarwalY01,ikw-En98LywJ
-2281,44366,journals/tods/Hellerstein98,CuthnIIdYb4J
 230,5138,conf/vldb/PirotteZMY94,8s-SP8sAvQAJ
+2281,44366,journals/tods/Hellerstein98,CuthnIIdYb4J
 1116,46844,conf/sigmod/MatiasVW98,OnLLKkgfyLUJ
 2330,11047,journals/vldb/GibsonKR00,9FBwT6XFOssJ
 2029,34504,conf/vldb/JiangWL03,nPEHo5w7PxwJ
@@ -12887,8 +12887,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1920,57436,conf/vldb/DarFJST96,8o0d8xLuwgUJ
 567,17984,conf/sigmod/LeeWMS01,ikJrOFv4o9QJ
 2273,37552,journals/tods/ZaharioudakisCF97,vF-KpOq9TdIJ
-1008,38860,conf/sigmod/PapakonstantinouV99,5iBUkqCy-KAJ
 1630,15229,conf/sigmod/Team95b,v80FFBUTW_0J
+1008,38860,conf/sigmod/PapakonstantinouV99,5iBUkqCy-KAJ
 996,61666,conf/vldb/VeltriCV01,wN-4Rn5hFnwJ
 1134,53494,conf/vldb/AltinelF00,onPj3O8mJEAJ
 750,14658,conf/sigmod/ForlizziGNS00,WUIN55YAF1MJ
@@ -13897,8 +13897,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1363,60826,conf/sigmod/ZhangRL96,o-fZP19Hu2IJ
 351,20701,conf/sigmod/MelnikRB03,642Qb6WdPLMJ
 154,55061,conf/vldb/SteenhagenABB94,Xr2RguUzt-gJ
-952,23550,conf/sigmod/AboulnagaC99,WWaxLMIptTMJ
 903,48009,journals/tods/KarpSP03,mAQIVsd2VOMJ
+952,23550,conf/sigmod/AboulnagaC99,WWaxLMIptTMJ
 122,47444,journals/sigmod/HanBP01,url:http://www.ingentaconnect.com/search/expand%3Fpub%3Dinfobike://pep/jae/2001/00000215/00000006/art00001%26unc%3D
 126,25686,conf/vldb/BrownMCL94,oayI0FKl-nQJ
 2000,52752,conf/vldb/YangLH03,s4yoKYnXNY8J
@@ -14543,8 +14543,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1476,9781,conf/sigmod/HarinarayanRU96,e_vUPQi8-xIJ
 1912,56886,conf/vldb/GardarinGT95,rXyikI2-w1wJ
 1530,12461,conf/vldb/BliujuteJSS98,gH4dCptTL58J
-2323,9653,journals/vldb/FernandezFLS00,KMULYUKbgVoJ
 1602,47046,conf/vldb/MuthOPW98,cy0zVqmNba4J
+2323,9653,journals/vldb/FernandezFLS00,KMULYUKbgVoJ
 458,29625,conf/sigmod/ChaudhuriGN02,KAf2DUUVabIJ
 796,6989,conf/sigmod/ChenJDTW00,9kVNirT3vMIJ
 876,23722,conf/sigmod/YerneniLGU99,CGQkJvm6wT0J
@@ -14954,8 +14954,8 @@ i_dblp,j_sch,dblp_id,sch_id
 561,40414,conf/sigmod/ChenZCKR01,FKP82dZax-cJ
 1402,47446,conf/vldb/AcharyaGP99,czJmrc_4tZ4J
 1142,51656,conf/sigmod/LiuPTBBZBHY98,0e3PPUvtZ0MJ
-335,5547,conf/sigmod/StoltePAG03,9WTNlminW6AJ
 221,52774,journals/sigmod/Bussler02,Phcd3C1cfLcJ
+335,5547,conf/sigmod/StoltePAG03,9WTNlminW6AJ
 558,56331,journals/sigmod/LometBCLN98,UjcuBBQi2FcJ
 623,60890,conf/sigmod/MistryRSR01,0MCbJO8XsEoJ
 2006,57359,conf/vldb/HalversonBKKRTVWND03,4QupwyuXHi8J
@@ -15316,8 +15316,8 @@ i_dblp,j_sch,dblp_id,sch_id
 352,20215,conf/sigmod/KangN03,GGX9LS25OhwJ
 1173,10565,conf/sigmod/ChaudhuriN98a,QCFUIVkspywJ
 2433,18712,journals/vldb/MehtaD97,5xe-dQqXfI8J
-1773,4144,conf/sigmod/HanFHCC94,6M-fnuhWEOIJ
 1593,28120,conf/sigmod/Levine95,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D223878%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222
+1773,4144,conf/sigmod/HanFHCC94,6M-fnuhWEOIJ
 2460,48616,journals/vldb/KemperK95,qUfWV4VVxegJ
 1932,1922,conf/vldb/PottingerB03,Ma63FMEnehYJ
 193,15617,journals/sigmod/LeeF01,kreFjtCAZ7QJ
@@ -15397,8 +15397,8 @@ i_dblp,j_sch,dblp_id,sch_id
 967,17723,journals/sigmod/RamirezSP94,fGilRUlJ_dQJ
 1686,59289,conf/vldb/ShuklaDN98,BXB96UFPHn8J
 482,38619,conf/sigmod/ZhouR02,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D945741%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222
-2252,14788,journals/tods/KemmeA00,qYQLB8A2C3MJ
 1475,40760,conf/vldb/VorugantiOU99,nlwMBvJt988J
+2252,14788,journals/tods/KemmeA00,qYQLB8A2C3MJ
 1623,36494,conf/sigmod/DreyerDS95,1R21hO7j9sQJ
 1880,16902,conf/vldb/GuptaM96,VCSbj6MwKlgJ
 1483,18929,conf/sigmod/AcharyaAFZ95,Hf3gZHIcm58J
@@ -15826,8 +15826,8 @@ i_dblp,j_sch,dblp_id,sch_id
 753,45154,conf/sigmod/LiuPBHPT00,3tRtdT5VfDkJ
 671,8346,conf/sigmod/AgrawalCN01,url:http://portal.acm.org/citation.cfm%3Fid%3D902519
 507,13607,conf/sigmod/YangWYH02,xuAzLPawm2QJ
-427,57412,journals/sigmod/KuanL99,BZfdROjhbhwJ
 1083,8290,conf/vldb/BerckenS01,BJ8i-uzFQi4J
+427,57412,journals/sigmod/KuanL99,BZfdROjhbhwJ
 878,47485,conf/sigmod/Keim99,GBZiTCbChZQJ
 2176,29129,conf/vldb/DoR02,VaVAM89pZHgJ
 1873,29320,conf/vldb/MiningGroup96,fGw7o-RlqlcJ
@@ -16893,8 +16893,8 @@ i_dblp,j_sch,dblp_id,sch_id
 2495,41026,journals/sigmod/WinslettMY03,url:http://portal.acm.org/citation.cfm%3Fid%3D507338.507358%26coll%3DGUIDE%26dl%3Dacm%26idx%3D984378%26part%3Dperiodical%26WantType%3Dperiodical%26title%3DACM%2520SIGMOD%2520Record%26CFID%3D11111111%26CFTOKEN%3D2222222
 702,42215,conf/sigmod/WuAA01,xiJnQi1iaPEJ
 2066,7143,conf/vldb/ZellerK02,url:http://ieeexplore.ieee.org/iel5/9217/29235/01320046.pdf%3Farnumber%3D1320046
-2150,50413,conf/vldb/Kiessling02,uS43GVHJ3jQJ
 1376,6696,conf/vldb/DonjerkovicR99,4U31XD8P478J
+2150,50413,conf/vldb/Kiessling02,uS43GVHJ3jQJ
 1529,3528,conf/vldb/GarciaLL98,odsY0ehPPhIJ
 1330,62163,conf/sigmod/HammerGNYBV97,_XLK2p-e2pYJ
 1492,52133,conf/sigmod/IoannidisP95,ocU8aFaXuPwJ
@@ -17312,8 +17312,8 @@ i_dblp,j_sch,dblp_id,sch_id
 2010,36719,conf/vldb/AggarwalHWY03,ma9Je1n6cCUJ
 1322,57256,conf/vldb/BalminPP00,HLqmreti7SQJ
 1502,26864,conf/vldb/GoldmanSVG98,y6gLSJhyXfcJ
-2070,23938,conf/vldb/Fox02,eybUiurX77sJ
 68,48365,journals/sigmod/Weikum02,FQu7aYLHklAJ
+2070,23938,conf/vldb/Fox02,eybUiurX77sJ
 1052,40399,conf/sigmod/BerchtoldK98,irJbh9rrinoJ
 2488,10865,journals/sigmod/WenLMZ03,ObY-qCNxpaQJ
 628,2164,journals/sigmod/SilberschatzSU96,F-v-VG2RBQoJ
@@ -18656,8 +18656,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1498,32875,conf/vldb/JohnsonM98,LU_mZskcNAEJ
 1960,47458,conf/vldb/GalanisWJD03,P3CfoUrfYE0J
 1000,30154,conf/sigmod/ChangG99,GHz2PmQwW2UJ
-1184,51374,conf/sigmod/KornackerMH97,w5tLFDyhdm8J
 744,6779,conf/sigmod/HellersteinA00,VlRO0WwUy3wJ
+1184,51374,conf/sigmod/KornackerMH97,w5tLFDyhdm8J
 2006,62328,conf/vldb/HalversonBKKRTVWND03,tOkriqZ1m44J
 2505,59797,journals/sigmod/AbererCH02,url:http://portal.acm.org/citation.cfm%3Fid%3D603867.603869%26coll%3DGUIDE%26dl%3DACM%26idx%3DJ689%26part%3Dperiodical%26WantType%3Dperiodical%26title%3DACM%2520SIGMOD%2520Record%26CFID%3D11111111%26CFTOKEN%3D2222222
 1625,10177,conf/sigmod/GrossmanHQ95,rU2m6vlos3EJ
@@ -18717,8 +18717,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1191,28893,conf/sigmod/BerchtoldBBKK97,34xG3yx9iiwJ
 950,61261,conf/sigmod/LeeKC99,LdDaBOd7JhkJ
 1567,38040,conf/vldb/GraefeBC98,v-kvo2hnsgkJ
-2136,2505,conf/vldb/BouganimP02,5oXuo8dJ6qAJ
 18,4126,journals/sigmod/CaplinskasEV02,WHKiEqUS8EgJ
+2136,2505,conf/vldb/BouganimP02,5oXuo8dJ6qAJ
 475,16645,journals/sigmod/EisenbergM99a,ciavnyh4U8UJ
 1394,8284,conf/sigmod/ChawatheRGW96,NwMlw45B_h0J
 245,54275,conf/sigmod/Al-KhalifaYJ03,2idq2KOD-nYJ
@@ -19236,8 +19236,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1218,34932,conf/sigmod/NgLK98,url:http://portal.acm.org/citation.cfm%3Fid%3D264335
 1556,18712,conf/sigmod/FreedmanD95,5xe-dQqXfI8J
 507,2117,conf/sigmod/YangWYH02,RaJZ70MiTSoJ
-2065,56496,conf/vldb/LeeWMS02,c-MP8R47zVIJ
 1158,22049,conf/sigmod/TsurUACMNR98,ij8LH1U0bgQJ
+2065,56496,conf/vldb/LeeWMS02,c-MP8R47zVIJ
 2017,44936,conf/vldb/Ramanan03,QCJEyGp-iZcJ
 1328,18296,conf/vldb/OlstonW00,4RrNbX-RjpsJ
 1035,10315,conf/vldb/AboulnagaAN01,7BDCL140Kx4J
@@ -19565,8 +19565,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1984,56909,conf/vldb/WangSG03,0a2EXdINy0QJ
 1760,19486,conf/vldb/LabioG96,5Rq_5hPceK8J
 945,42722,conf/sigmod/ChaudhuriMN99,jq5VkbTyBksJ
-578,41208,conf/sigmod/KiesslingHFE01,tNzM8E3W2K4J
 302,20399,journals/sigmod/LeeC00,b9BVLUU3P0YJ
+578,41208,conf/sigmod/KiesslingHFE01,tNzM8E3W2K4J
 332,37769,conf/sigmod/ChaudhuriGGM03,ES6QyfgebIcJ
 2342,22093,journals/vldb/SinghalS97,gVQa1g-ylR4J
 1457,22868,conf/vldb/BernsteinPS99,pb3OQtY3SyMJ
@@ -19756,8 +19756,8 @@ i_dblp,j_sch,dblp_id,sch_id
 252,63346,conf/sigmod/AgrawalES03,ZjIllDHwkSoJ
 2405,57747,journals/vldb/FuCCM00,qUGuS7ucsHwJ
 525,45950,conf/sigmod/LuoKMPWLN02,JGBeL2PPCZQJ
-1528,35782,conf/sigmod/RoussopoulosKV95,efwTNo1wRnMJ
 729,13700,conf/sigmod/GunopulosKTD00,VEDf7vb98i8J
+1528,35782,conf/sigmod/RoussopoulosKV95,efwTNo1wRnMJ
 2000,15590,conf/vldb/YangLH03,zUt79EnwU2wJ
 376,7920,conf/sigmod/RiedewaldAA02,HAaZcc7-vqAJ
 2345,29588,journals/vldb/ChenHY97,x5By8kBxxpwJ
@@ -20126,9 +20126,9 @@ i_dblp,j_sch,dblp_id,sch_id
 1553,13885,conf/sigmod/ZhugeGHW95,2BGKvm5UIqAJ
 209,36777,journals/sigmod/TianDCZ02,RznZwtnBQZIJ
 1194,49415,conf/vldb/OoiYTJ01,YtMVuLN2XaYJ
-1895,37219,journals/sigmod/Nascimento03,qKn6Xl6DgCkJ
 2056,55072,conf/vldb/RizviH02,3ku_XOqYuawJ
 2497,35567,conf/vldb/Kleewein96,rXaCSxty6AAJ
+1895,37219,journals/sigmod/Nascimento03,qKn6Xl6DgCkJ
 197,33010,conf/sigmod/ChaudhuriGS03,vfXedyDRpk0J
 794,20434,conf/sigmod/LabrinidisR00,DKUouEkK_b4J
 1913,4779,conf/vldb/BelussiF95,ONuqAb6sM3oJ
@@ -20232,8 +20232,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1007,30154,conf/sigmod/LabioYG99,GHz2PmQwW2UJ
 1327,33542,conf/vldb/GantiLR00,url:http://portal.acm.org/citation.cfm%3Fid%3D335216
 625,34024,journals/sigmod/LinP96,EyOHVek12P0J
-1173,45907,conf/sigmod/ChaudhuriN98a,AiXOfJPvvpUJ
 2169,54762,conf/vldb/BettiniJWW02,ghIMekzCkMQJ
+1173,45907,conf/sigmod/ChaudhuriN98a,AiXOfJPvvpUJ
 2424,46421,journals/vldb/OoiHLT96,ggVa2pgFHIQJ
 1549,23563,conf/sigmod/DuSD95,Em19Rs4TqmIJ
 1338,45974,conf/vldb/WangHH00,EbbfXUHN5_gJ
@@ -23190,8 +23190,8 @@ i_dblp,j_sch,dblp_id,sch_id
 896,11368,journals/tods/TaoP03,CxBJwFNdozAJ
 2188,39964,journals/tods/IoannidisR95,ctDS9w1d04cJ
 835,13344,conf/sigmod/AgrawalS00,pxyMytCR9dgJ
-1356,56615,conf/vldb/JaedickeM99,XR50nxmrvFcJ
 2281,37711,journals/tods/Hellerstein98,Ae-y0LICgtkJ
+1356,56615,conf/vldb/JaedickeM99,XR50nxmrvFcJ
 777,64078,conf/sigmod/ChenDLT00,url:http://portal.acm.org/citation.cfm%3Fid%3D342009.336560
 222,10865,journals/sigmod/BallMRZ02,ObY-qCNxpaQJ
 1942,50296,conf/vldb/HaasB03,IPwJVJ7UTSUJ
@@ -23210,8 +23210,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1436,14099,conf/sigmod/BohmA96,978pJCGhaGoJ
 1830,7802,conf/vldb/LiCHH97,XyKObo7CL_0J
 966,47361,conf/sigmod/AcharyaPR99,Pka5Bod-rr4J
-420,54018,journals/sigmod/SycaraKWL99,-IaXJNRxKVEJ
 480,61239,conf/sigmod/ChenGMV02,IqV3EploPP4J
+420,54018,journals/sigmod/SycaraKWL99,-IaXJNRxKVEJ
 2003,36777,conf/vldb/ChenDZ03,RznZwtnBQZIJ
 209,8694,journals/sigmod/TianDCZ02,BGcx_nZKM4wJ
 1368,23205,conf/vldb/ShanmugasundaramGTZDN99,iME-SCx_DIgJ
@@ -24871,8 +24871,8 @@ i_dblp,j_sch,dblp_id,sch_id
 2199,20997,journals/tods/DeyS96,qrYUejJ8ncYJ
 965,55361,conf/sigmod/JagadishLS99,5fb1l1MyGisJ
 1391,34824,conf/vldb/GarofalakisRS99,ImADir74KWIJ
-1582,25724,conf/vldb/KnorrN98,oCPpSbHhL3IJ
 9,35547,conf/vldb/MoserKK95,53hNU_r6-jgJ
+1582,25724,conf/vldb/KnorrN98,oCPpSbHhL3IJ
 525,5104,conf/sigmod/LuoKMPWLN02,H-KHwUmJu80J
 1317,26207,conf/sigmod/LabioZWGGW97,ilCT5UFnHxgJ
 1394,39259,conf/sigmod/ChawatheRGW96,bZwr3eWmjVoJ
@@ -25728,8 +25728,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1467,55312,conf/sigmod/BlottRS96,pS2unAe-n_gJ
 254,10767,conf/sigmod/SchleimerWA03,nCRFjDfhOmcJ
 2158,15044,conf/vldb/TaoP02,PJ9152AhkuwJ
-496,6328,journals/sigmod/Franklin97a,TUOBVMb4PBsJ
 2440,60019,journals/vldb/LandauST95,E8U_krxA1dsJ
+496,6328,journals/sigmod/Franklin97a,TUOBVMb4PBsJ
 2020,8694,conf/vldb/ChenL03,BGcx_nZKM4wJ
 2350,50677,journals/vldb/AbiteboulCM98,Nd7-CTB1lRgJ
 1497,29298,conf/sigmod/BrinDG95,dXegp-RmzXEJ
@@ -26225,8 +26225,8 @@ i_dblp,j_sch,dblp_id,sch_id
 2351,28946,journals/vldb/OoiTCH98,OM7n6h8R8CoJ
 2059,11576,conf/vldb/KornMS02,HjwbHpPjvasJ
 1036,52768,conf/vldb/YangG01,-UILVcP4CZ8J
-629,33950,conf/sigmod/KimCK01,EYI-OULRIz8J
 3,61781,journals/sigmod/Liu02,url:http://doi.wiley.com/10.1002/ev.1658
+629,33950,conf/sigmod/KimCK01,EYI-OULRIz8J
 659,12659,journals/sigmod/KramerNKRLKLZ97,mFJzfuwL1jcJ
 463,40074,conf/sigmod/WangWYY02,4XF3ZlXQAEgJ
 702,38370,conf/sigmod/WuAA01,iABZEL2Zoz8J
@@ -27997,8 +27997,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1441,55770,conf/sigmod/Mohan96,V6E-2isMVToJ
 411,7926,conf/sigmod/OoiTZGLLLNSWZ03,aKEarwPrImoJ
 276,9953,conf/sigmod/AbiteboulBCMM03,YtqWhs8DYBUJ
-1887,61714,conf/vldb/SavasereON95,CG-_La4oAYkJ
 973,32512,conf/vldb/AilamakiDHS01,gUJrOpj89tQJ
+1887,61714,conf/vldb/SavasereON95,CG-_La4oAYkJ
 1391,32271,conf/vldb/GarofalakisRS99,byJ0lVRijnkJ
 1182,606,conf/sigmod/AcharyaFZ97,0lAHCM-lcjIJ
 1154,9138,conf/sigmod/ChenWZ98,CAp3AvmudusJ
@@ -28378,8 +28378,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1570,11780,conf/vldb/AbiteboulAAACHHMMMMSTV99,PYvxitTViMQJ
 1145,1428,conf/vldb/PardonA00,_FNrQSD-huEJ
 1192,28601,conf/vldb/PapadiasT01,v7hQCqKepzwJ
-237,11641,conf/vldb/KamelF94,Gr7nw0PAH1sJ
 1267,63649,conf/sigmod/HanKS97,_EEZCcB1BPYJ
+237,11641,conf/vldb/KamelF94,Gr7nw0PAH1sJ
 1094,2402,conf/sigmod/DeshpandeRSN98,YwLoGdTgG-sJ
 1604,13993,conf/vldb/Garcia-MolinaLY98,CduLyvAaxVsJ
 986,12668,conf/vldb/DongHLPW01,hlrRtJigGbYJ
@@ -29946,8 +29946,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1273,6240,conf/sigmod/BrinMS97,Innqdf1794AJ
 358,28306,journals/sigmod/BernsteinBCDFGGHHJLMNPSU98,qegvGp8SWyMJ
 1808,32413,conf/vldb/ShaferA97,O4UcgdEM7vYJ
-832,6497,conf/sigmod/RaoR00,wp2_GObi-XkJ
 690,30765,conf/sigmod/GunopulosD01,mnUzHNE5eF0J
+832,6497,conf/sigmod/RaoR00,wp2_GObi-XkJ
 1638,34476,conf/sigmod/KeimK95,G__T5t9i4ZwJ
 1273,60362,conf/sigmod/BrinMS97,MdwCZg0RBHYJ
 1953,54459,conf/vldb/SrinivasaK03,h_tDfTvsR0QJ
@@ -30477,8 +30477,8 @@ i_dblp,j_sch,dblp_id,sch_id
 2322,63645,journals/vldb/CandanLS00,cgzRIMZ8euwJ
 1943,55920,conf/vldb/HelmerNM03,vInYFLVq0uIJ
 2344,46630,journals/vldb/IoannidisNSS97,-YgmOHJiUwkJ
-1295,25871,conf/sigmod/SeshadriP97,f9POLlECN2gJ
 819,51017,journals/sigmod/ONeilG95,51gKshu0CWcJ
+1295,25871,conf/sigmod/SeshadriP97,f9POLlECN2gJ
 1297,62161,conf/vldb/PfoserJT00,e0UYPB4kRCYJ
 60,45515,conf/vldb/WuYCT95,url:http://portal.acm.org/citation.cfm%3Fid%3D339390%26coll%3Dportal%26dl%3DACM
 780,19009,conf/sigmod/WangSSZZW00,imJrz_SsLZAJ
@@ -30854,8 +30854,8 @@ i_dblp,j_sch,dblp_id,sch_id
 2013,36799,conf/vldb/YuPM03,RI03CKUm82kJ
 2135,26616,conf/vldb/ParkMC02,GvdTN6cZY8YJ
 1094,23468,conf/sigmod/DeshpandeRSN98,Y1Z4i3_4l00J
-1409,16124,conf/sigmod/LibkinMW96,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D262763%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222
 2436,19374,journals/vldb/KashyapS96,yWyvTMAVVzwJ
+1409,16124,conf/sigmod/LibkinMW96,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D262763%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222
 1434,58999,conf/sigmod/QuassWGHLMNRRAUW96,ofxLw3VrJB8J
 1986,61956,conf/vldb/WangZL03,1nADSc0_ZW4J
 632,51895,conf/sigmod/ClaypoolRZSK01,ZXFV7IiliOcJ
@@ -31601,8 +31601,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1843,7402,conf/vldb/PellenkoftLK97,mCU3zHcPfCsJ
 1933,24823,conf/vldb/WangC03,IyWdYq3U_qkJ
 507,12442,conf/sigmod/YangWYH02,xQYKEHCggZQJ
-555,38497,conf/sigmod/RinfretOO01,pyqtmrPg24YJ
 255,13884,conf/sigmod/JohnsonD03,5OYgUpRggiMJ
+555,38497,conf/sigmod/RinfretOO01,pyqtmrPg24YJ
 2002,5180,conf/vldb/Amer-YahiaFSX03,MAdjH9lCsysJ
 1229,9394,conf/vldb/KemperKW99,MCuFKbwcWIIJ
 927,62986,journals/sigmod/AndersonS94,url:http://portal.acm.org/citation.cfm%3Fid%3D187455
@@ -32614,8 +32614,8 @@ i_dblp,j_sch,dblp_id,sch_id
 186,11923,conf/sigmod/WangJLY03,fvkI7LBhwdsJ
 1672,22857,conf/sigmod/BrinkhoffKSS94a,2Yy0kQZvT0EJ
 1329,61364,conf/sigmod/AtzeniT97,KFmRUQEedY8J
-651,7529,journals/sigmod/UrbanDG96,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D381892%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222
 1767,60809,conf/vldb/SeshadriLR96,aEhVgTfCykUJ
+651,7529,journals/sigmod/UrbanDG96,url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D381892%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222
 1457,24366,conf/vldb/BernsteinPS99,qcZ2tYThtK0J
 1359,63458,conf/vldb/LeeL99,Sr_EyL_rCWMJ
 1645,1971,conf/sigmod/ZhangNBB94,f86VsMJZ9gAJ
@@ -34254,8 +34254,8 @@ i_dblp,j_sch,dblp_id,sch_id
 1446,16297,conf/vldb/ChenCFGJMTW99,M1tbbe85XDEJ
 991,45703,conf/sigmod/AcharyaGPR99,-7tsGpHin24J
 1869,56000,conf/vldb/GravanoG95,lr_Kq9SZLY8J
-1471,27846,conf/sigmod/DohertyHR96,v3IA8Go4UjIJ
 585,21603,conf/sigmod/BorkarDS01,8zFEVer1rBUJ
+1471,27846,conf/sigmod/DohertyHR96,v3IA8Go4UjIJ
 788,24406,conf/sigmod/GoldmanW00,wYo6XpSQEYkJ
 1332,25967,conf/vldb/MillerHH00,DEm1Nx3NjrEJ
 1959,17205,conf/vldb/HristidisGP03,H9gnzliUH_QJ
